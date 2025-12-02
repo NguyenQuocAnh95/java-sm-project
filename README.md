@@ -4,6 +4,7 @@
  * 3 layered Architecture
  * Design pattern
  * Javax.swing FrameWork
+ * Java core
  * Microcsoft SQL Server
  * Adobe Photoshop
 # IDE
