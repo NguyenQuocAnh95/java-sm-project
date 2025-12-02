@@ -8,5 +8,7 @@
  * Adobe Photoshop
 # IDE
  * vscode
+# Participants
+ * Number of participants : 3
    
 
